@@ -1,6 +1,6 @@
 # Clanhold — releases
 
-Downloads for **Clanhold**, a pixel-art village-to-city RTS. This repository holds release builds only (no source).
+Downloads for **Clanhold**: build a kingdom, lead its hero, conquer the realm, and slay its dragon. A pixel-art real-time strategy game for Mac, Windows and the browser. This repository holds release builds only (no source).
 
 - Website and guide: https://clanhold.pages.dev
 - Play in the browser: https://clanhold.clanhold.workers.dev/
